@@ -11,7 +11,7 @@ VEX robotics wiki주소:<http://www.vexwiki.org/start> 만드는 방법까지 �
 
 VEX robotics ROBOTC 메뉴얼 페이지:<http://help.robotc.net/WebHelpVEX/index.htm> 
 
-###영어 필수 
+### 영어 필수 
 
 2.Hovis Lite 휴머노이드 
 ----------------------
@@ -37,29 +37,35 @@ CPU 종류:AVR ATMega
 5.기타 도움이 될만한 자료
 ----------------------
 
-###1.OpenCV:영상 처리 라이브러리(교내 로봇 대회에 쓰기 좋음)
+### 1.OpenCV:영상 처리 라이브러리(교내 로봇 대회에 쓰기 좋음)
   
   사용예시:<https://www.youtube.com/watch?v=GjQlF_0-aWA> ->VEX Robotics 사용함
 
 
-###2.OpenGL:그래픽 라이브러리
+### 2.OpenGL:그래픽 라이브러리
 
 
-###3.youtube:로봇 만든거 많이나옴
+### 3.youtube:로봇 만든거 많이나옴
 
   1.VEX Robotics:<https://www.youtube.com/results?search_query=vex+robotics>
   
   2.mindstorm:<https://www.youtube.com/results?search_query=lego+mindstorm>
   
   
-###4.google 검색
+### 4.google 검색
 
 
-###5.Stack Overflow
+### 5.Stack Overflow
 
   코딩하다 막히면 여기 찾아보기<https://stackoverflow.com/>
   
   
-###6.입시관련
+### 6.입시관련
 
    <https://github.com/revsic/awesome-kr-sw-univ>:특기자 전형 및 학생부종합전형 대비
+
+### 7.MarkDown 사용법
+
+  <https://gist.github.com/ihoneymon/652be052a0727ad59601>
+  
+  
