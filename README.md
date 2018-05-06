@@ -8,11 +8,13 @@ CPU 종류:ARM Cortex-M3
 VEX robotics wiki주소:<http://www.vexwiki.org/start> 
 VEX robotics ROBOTC 메뉴얼 페이지:<http://help.robotc.net/WebHelpVEX/index.htm> 
 영어 필수 
+
 2.Hovis Lite 휴머노이드 
 ----------------------
 
 회사 주소:<http://www.dongburobot.com/jsp/cms/view.jsp?code=100795> 
 메뉴얼:<http://hovis.co.kr/guide/hovis_lite_kor.html> 
+
 3.LEGO MindStorm 
 ----------------- 
 
