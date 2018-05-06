@@ -18,5 +18,5 @@ VEX robotics ROBOTC 메뉴얼 페이지:<http://help.robotc.net/WebHelpVEX/index
 3.LEGO MindStorm 
 ----------------- 
 
-<http://bimage.interpark.com/goods_image/2/1/2/4/224692124s.jpg> 
+![Alt text](http://bimage.interpark.com/goods_image/2/1/2/4/224692124s.jpg)
 이 책 꼭 읽어 보기 
