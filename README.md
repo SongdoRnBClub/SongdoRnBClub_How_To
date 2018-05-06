@@ -11,7 +11,7 @@ VEX robotics wiki주소:<http://www.vexwiki.org/start>
 
 VEX robotics ROBOTC 메뉴얼 페이지:<http://help.robotc.net/WebHelpVEX/index.htm> 
 
-영어 필수 
+###영어 필수 
 
 2.Hovis Lite 휴머노이드 
 ----------------------
@@ -26,3 +26,8 @@ VEX robotics ROBOTC 메뉴얼 페이지:<http://help.robotc.net/WebHelpVEX/index
 ![Alt text](http://bimage.interpark.com/goods_image/2/1/2/4/224692124s.jpg)
 
 이 책 꼭 읽어 보기 
+
+4.HP Proliant ML350 G5 Server
+--------------------------
+
+<https://h20195.www2.hpe.com/v2/getpdf.aspx/c04284193.pdf?ver=41>
