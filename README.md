@@ -11,7 +11,7 @@ VEX robotics wiki주소:<http://www.vexwiki.org/start> 만드는 방법까지 �
 
 VEX robotics ROBOTC 메뉴얼 페이지:<http://help.robotc.net/WebHelpVEX/index.htm> 
 
-### 영어 필수 
+ * ### 영어 필수 
 
 2.Hovis Lite 휴머노이드 
 ----------------------
