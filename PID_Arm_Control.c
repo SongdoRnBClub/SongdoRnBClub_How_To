@@ -8,14 +8,14 @@
 #define Kd 100
 #define deltaT 0.001 //1millisec
 
-double ideal=2048;             //
+double ideal=2048;             //130도
 double currentval;
 double err, preverr;
 double err_i, err_D;
 double Kpterm, Kiterm, Kdterm;
 double ctrl;
 
-int limit(int x)
+int limit(int x)             //모터전압제한
 {
 	if(x<-127)
 		return -127;
@@ -29,16 +29,16 @@ task main()
 {
 	for(;;)
 	{
-  currentval=SensorValue[angle1];	
+  	currentval=SensorValue[angle1];	
 
-  err = ideal - currentval;
+  	err = ideal - currentval;
 
-	Kpterm = Kp * err;
+	Kpterm = Kp * err;			//비례
 
-	err_i += err * deltaT;
+	err_i += err * deltaT;			//적분(구분구적법)
 	Kiterm = Ki * err_i;
 
-	err_D = (err - preverr) / deltaT;
+	err_D = (err - preverr) / deltaT;	//미분(평균변화율)
 	Kdterm = Kd*err_D;
 
 	preverr = err;
