@@ -29,16 +29,16 @@ task main()
 {
 	for(;;)
 	{
-  currentval=SensorValue[angle1];	
+        currentval=SensorValue[angle1];	
 
-  err = ideal - currentval;
+        err = ideal - currentval;
 
-	Kpterm = Kp * err;
+	Kpterm = Kp * err;                 //비례
 
-	err_i += err * deltaT;
+	err_i += err * deltaT;            //적분(구분구적법 생각)
 	Kiterm = Ki * err_i;
 
-	err_D = (err - preverr) / deltaT;
+	err_D = (err - preverr) / deltaT;   //미분(평균변화율)
 	Kdterm = Kd*err_D;
 
 	preverr = err;
